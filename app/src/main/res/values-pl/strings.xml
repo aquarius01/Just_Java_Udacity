@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Tylko Java</string>
+    <string name="button_name">Zamów</string>
+    <string name="quantity_positive_button_name">+</string>
+    <string name="quantity_negative_button_name">-</string>
+    <string name="quantity_text_view_name">ilość</string>
+    <string name="price_text_view_name">suma zamówienia</string>
+    <string name="quantity_text_view_value">2</string>
+    <string name="toppings_text_view_value">Polewy</string>
+    <string name="price_text_view_value">0</string>
+    <string name="whipped_cream_check_box">Bita śmietana</string>
+    <string name="chocolate_cream_check_box">Czekolada</string>
+    <string name="name_cream_edit_text">Imię</string>
+
+    <string name="name">Imię: <xliff:g id="name" example="Ania">%s</xliff:g></string>
+    <string name="add_whiped_cream">Dodać Bitą smietanę? </string>
+    <string name="add_chocolate">Dodać czekoladę? </string>
+    <string name="quantity">Ilość: </string>
+    <string name="summary">Suma: <xliff:g id="quantity" example="2 zł">%s</xliff:g></string>
+    <string name="Thank_You">Dziękuję Bardzo!</string>
+    <string name="qurency">zł</string>
+    <string name="order_subiect">Zamówienie kawy z aplikacji JustJava od</string>
+
+    <string name="to_high_number_of_coffies">Za duża ilość! Nie możesz zamówić więcej niż stu kaw!</string>
+    <string name="to_low_number_of_coffies">Za mała ilość! Nie możesz zamówić mniej niż jednej kawy!</string>
+
+</resources>

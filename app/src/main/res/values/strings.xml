@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Main App Views strings -->
+
+    <string name="app_name">Just Java</string>
+    <string name="button_name">Order</string>
+    <string name="quantity_positive_button_name" translatable="false">+</string>
+    <string name="quantity_negative_button_name" translatable="false">-</string>
+    <string name="quantity_text_view_name">quantity</string>
+    <string name="price_text_view_name">oreder summary</string>
+    <string name="quantity_text_view_value" translatable="false">2</string>
+    <string name="toppings_text_view_value">Toppings</string>
+    <string name="price_text_view_value" translatable="false">0</string>
+    <string name="whipped_cream_check_box">Whiped Cream</string>
+    <string name="chocolate_cream_check_box">Chocolate</string>
+    <string name="name_cream_edit_text">Name</string>
+
+    <!-- Main in App strings -->
+
+    <!-- Name of an owner - wrap_content field. [CHAR LIMIT=NONE] -->
+    <string name="name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+
+    <string name="add_whiped_cream">Add Whiped Cream?</string>
+    <string name="add_chocolate">Add Chocolate?</string>
+    <string name="quantity">Quantity:</string>
+    <string name="summary">Summary: <xliff:g id="price" example="$2">%s</xliff:g></string>
+    <string name="Thank_You">Thank You!</string>
+    <string name="qurency">$</string>
+    <string name="order_subiect">JustJava order from</string>
+
+    <string name="to_high_number_of_coffies">Quantity of Coffees too high! You Can\'t order as many of Coffees!</string>
+    <string name="to_low_number_of_coffies">Quantity of Coffees to low! You Can\'t order such a large amount of Coffees!</string>
+
+</resources>

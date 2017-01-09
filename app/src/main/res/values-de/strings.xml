@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Nur Java</string>
+    <string name="Thank_You">Vielen Dank!</string>
+    <string name="add_chocolate">Hinzufügen die Schokolade?</string>
+    <string name="add_whiped_cream">Hinzufügen die Schlagsahne</string>
+    <string name="button_name">Bestellen</string>
+    <string name="chocolate_cream_check_box">die Schokolade</string>
+    <string name="name">Name: <xliff:g id="name" example="Ingrid">%s</xliff:g></string>
+    <string name="name_cream_edit_text">Name</string>
+    <string name="order_subiect">Bestellung von Nur Java App</string>
+    <string name="price_text_view_name">Bestellübersicht</string>
+    <string name="quantity">Menge:</string>
+    <string name="quantity_text_view_name">Menge</string>
+    <string name="qurency">EUR</string>
+    <string name="summary">Bestellübersicht: <xliff:g id="price" example="2 EUR">%s</xliff:g></string>
+    <string name="to_high_number_of_coffies">Anzahl der Coffies zu hoch! Sie können nicht so viele Kaffees bestellen!</string>
+    <string name="to_low_number_of_coffies">Menge Kaffee zu niedrig! Sie können nicht so viel Kaffee bestellen!</string>
+    <string name="toppings_text_view_value">der Belag</string>
+    <string name="whipped_cream_check_box">die Schlagsahne</string>
+</resources>
